@@ -1,14 +1,20 @@
-<h1>Hi, I'm Guy!</h1>
+# 👋 Hi, I'm Guy!
 
-<h2>🔍 Data Analysis & Data Science Projects:</h2>
-<ul>
-  <li><a href="https://github.com/guymor0/customer-churn-analysis">Customer Churn Analysis</a> – A project analyzing customer churn using exploratory data analysis, predictive modeling, and visualizations.</li>
-  <li><a href="https://github.com/guymor0/house-price-prediction">House Price Prediction</a> – Analyzing real estate data and building a predictive model for housing prices.</li>
-  <li><a href="https://github.com/guymor0/data-visualization-dashboard">Data Visualization Dashboard</a> – An interactive dashboard built with Python and Plotly to showcase analytical insights.</li>
-</ul>
+I'm passionate about data analysis and visualization using **R**, **SQL**, and **statistics**. I'm currently building my portfolio with hands-on projects in data exploration, visualization, and communication of insights.
 
-<h2>📃 Certifications & Courses</h2>
-<ul>
-  <li><a href="https://www.example.com/certificates/python-for-data-science">Python for Data Science</a> – An in-depth course on Python tailored for data analysis.</li>
-  <li><a href="https://www.example.com/certificates/data-analysis-visualization">Data Analysis & Visualization with pandas & matplotlib</a> – Certification in data analysis and visualization techniques.</li>
-</ul>
+---
+
+## 🔍 Featured Projects
+
+- [**Free-to-Paid Conversion Analysis**](https://github.com/guymor0/calculating-free-to-paid-conversion-rate-sql)  
+  Analyze user behavior and subscription conversion rates using SQL and R Markdown.  
+  Includes statistical interpretation and visualizations, plus a full HTML/PDF report.
+
+- [**R Stats Intro**](https://github.com/guymor0/R_stats_intro)  
+  A beginner-friendly walkthrough of data manipulation, visualization, and descriptive statistics in R.
+
+---
+
+## 🛠️ Currently Learning
+
+- SQL for data analysis
