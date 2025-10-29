@@ -1,20 +1,22 @@
 # 👋 Hi, I'm Guy!
 
-I'm passionate about data analysis and visualization using **R**, **SQL**, and **statistics**. I'm currently building my portfolio with hands-on projects in data exploration, visualization, and communication of insights.
+I'm a highly motivated B.Sc. student in Math & Statistics, focused on translating user behavior into actionable business insights. I'm proficient in applying SQL (BigQuery) and Python to analyze Gaming KPIs and conduct end-to-end analytical projects. My portfolio is designed to demonstrate the full workflow, from defining business questions to communicating data-driven solutions.
 
 ---
 
 ## 🔍 Featured Projects
 
-- [**Free-to-Paid Conversion Analysis**](https://github.com/guymor0/calculating-free-to-paid-conversion-rate-sql)  
-  Analyze user behavior and subscription conversion rates using SQL and R Markdown.  
-  Includes statistical interpretation and visualizations, plus a full PDF report.
+- [**Gaming Analytics Final Project (ppltx)**](https://github.com/guymor0/Gaming-Analytics-Final-Project.git)  
+  End-to-end Python Notebook analysis demonstrating the full analytical workflow: from defining business questions to delivering actionable product insights.
+
+- [**Business SQL Queries (ppltx)**](https://github.com/guymor0/PPLTX-Business-SQL-Queries.git)  
+  SQL queries for calculating gaming KPIs, segmentation, and advanced business metrics, using Google BigQuery.
+
+- [**Public Data CitiBike Case-Study (ppltx)**](https://github.com/guymor0/Public-Data-CitiBike-Case-Study.git)  
+  Business case study using public CitiBike data, focused on exploratory analysis and main KPIs. 
 
 - [**R Stats Intro**](https://github.com/guymor0/R_stats_intro)  
   A beginner-friendly walkthrough of data manipulation, visualization, and descriptive statistics in R.
 
 ---
 
-## 🛠️ Currently Learning
-
-- SQL for data analysis
