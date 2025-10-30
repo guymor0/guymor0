@@ -27,15 +27,15 @@ I'm a highly motivated B.Sc. student in Math & Statistics, focused on translatin
 
 ---
 
-## ✨ Self-Learning & Resources
-
-* **Industry Insights: BA Podcast Summaries:** A Google Doc consolidating key takeaways, methodologies, and business insights from leading industry podcasts and webinars related to Business and Gaming Analytics. [**Link to Google Doc**](https://docs.google.com/document/d/1NbtwVBaXxanRYc-EfT_I7Z5gRdWWCLfrKdX3YzB0N8Y/edit?usp=sharing)
-
----
-
 ## 🎮 Gaming Experience, Product & Economy Insight
 
 * **Game Review: League of Legends Business Model:** A review of a leading MOBA game, analyzing its gameplay loop, **ranked system**, business model (free-to-play), **Game Economy**, and key elements that drive **player engagement and motivation**.
 [**Link to Google Doc**](https://docs.google.com/document/d/1im-F5I00qV0iYU6rGlH1_mGMooFM_xWE/edit?usp=sharing&ouid=109864588023758959563&rtpof=true&sd=true)
+
+---
+
+## ✨ Self-Learning & Resources
+
+* **Industry Insights: BA Podcast Summaries:** A Google Doc consolidating key takeaways, methodologies, and business insights from leading industry podcasts and webinars related to Business and Gaming Analytics. [**Link to Google Doc**](https://docs.google.com/document/d/1NbtwVBaXxanRYc-EfT_I7Z5gRdWWCLfrKdX3YzB0N8Y/edit?usp=sharing)
 
 ---
