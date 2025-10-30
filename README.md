@@ -4,6 +4,11 @@ I'm a highly motivated B.Sc. student in Math & Statistics, focused on translatin
 
 ---
 
+## ✨ Self-Learning & Resources
+
+* **Industry Insights: BA Podcast Summaries:** A Google Doc consolidating key takeaways, methodologies, and business insights from leading industry podcasts and webinars related to Business and Gaming Analytics. [**Link to Google Doc**](https://docs.google.com/document/d/1NbtwVBaXxanRYc-EfT_I7Z5gRdWWCLfrKdX3YzB0N8Y/edit?usp=sharing)
+---
+
 ## 🔍 Featured Projects
 
 - [**Gaming Analytics Final Project (ppltx)**](https://github.com/guymor0/Gaming-Analytics-Final-Project.git)  
