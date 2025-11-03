@@ -9,6 +9,9 @@ I'm a highly motivated B.Sc. student in Math & Statistics, focused on translatin
 - [**Gaming Analytics Final Project (ppltx)**](https://github.com/guymor0/Gaming-Analytics-Final-Project.git)  
   End-to-end Python Notebook analysis demonstrating the full analytical workflow: from defining business questions to delivering actionable product insights.
 
+- [**Property Management CLI (OOP Demo)**](https://github.com/guymor0/property-management-cli.git)  
+  A Python CLI application demonstrating advanced OOP principles (Inheritance, Composition) to solve a real-world business problem: managing property rentals, bookings, and payouts with data persistence.
+
 - [**Business SQL Queries (ppltx)**](https://github.com/guymor0/PPLTX-Business-SQL-Queries.git)  
   SQL queries for calculating gaming KPIs, segmentation, and advanced business metrics, using Google BigQuery.
 
