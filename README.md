@@ -28,6 +28,9 @@ I'm a highly motivated B.Sc. student in Math & Statistics, focused on translatin
 * **Gaming KPIs & Event Distribution (Google Sheet):** Visual dashboard combining core gaming KPIs (DAU, DI, Retention) with data exploration and **event distribution analysis** to drive understanding of user activity.
 [**Link to Google Sheet**](https://docs.google.com/spreadsheets/d/1zodQFiQohWiwZWGK7tg9bzmgi-Hov32Y4y0bS7Gas4U/edit?usp=sharing)
 
+* **Marketing Campaign Analysis (KPI Exercise):** A Google Sheet case study analyzing paid marketing campaigns, calculating core KPIs (ROAS, CPD, ARPPU), and explaining the mathematical relationships between them.
+[**Link to Google Sheet**](https://docs.google.com/spreadsheets/d/1LVb51VnvFNqlQ27OfZ3MwV9ZVM91630c/edit?usp=sharing)
+
 ---
 
 ## 🎮 Gaming Experience, Product & Economy Insight
