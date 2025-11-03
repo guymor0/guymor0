@@ -41,4 +41,6 @@ I'm a highly motivated B.Sc. student in Math & Statistics, focused on translatin
 
 * **Industry Insights: BA Podcast Summaries:** A Google Doc consolidating key takeaways, methodologies, and business insights from leading industry podcasts and webinars related to Business and Gaming Analytics. [**Link to Google Doc**](https://docs.google.com/document/d/1NbtwVBaXxanRYc-EfT_I7Z5gRdWWCLfrKdX3YzB0N8Y/edit?usp=sharing)
 
+* **My Data Analyst Philosophy (Summary & Reflection):** A summary of core DA responsibilities and a personal reflection on using data to "move the needle" and create measurable business impact. [**Link to Google Doc**](https://docs.google.com/document/d/19RC6bkrxEX-Pp4ueoLHd2PW2NnIQ-3J2/edit?usp=sharing&ouid=109864588023758959563&rtpof=true&sd=true)
+
 ---
