@@ -7,7 +7,7 @@ I'm a highly motivated B.Sc. student in Math & Statistics, focused on translatin
 ## 🔍 Featured Projects
 
 - [**Gaming Analytics Final Project (ppltx)**](https://github.com/guymor0/ppltx-guymor-final-project.git)  
-  End-to-end Python Notebook analysis demonstrating the full analytical workflow: from defining business questions to delivering actionable product insights.
+  End-to-end data analytics project for Coin Master: Python data generator (Cloud Function), BigQuery/SQL analysis, and Looker Studio dashboard.
 
 - [**Property Management CLI (OOP Demo)**](https://github.com/guymor0/property-management-cli.git)  
   A Python CLI application demonstrating advanced OOP principles (Inheritance, Composition) to solve a real-world business problem: managing property rentals, bookings, and payouts with data persistence.
