@@ -6,7 +6,7 @@ I'm a highly motivated B.Sc. student in Math & Statistics, focused on translatin
 
 ## 🔍 Featured Projects
 
-- [**Gaming Analytics Final Project (ppltx)**](https://github.com/guymor0/Gaming-Analytics-Final-Project.git)  
+- [**Gaming Analytics Final Project (ppltx)**](https://github.com/guymor0/ppltx-guymor-final-project.git)  
   End-to-end Python Notebook analysis demonstrating the full analytical workflow: from defining business questions to delivering actionable product insights.
 
 - [**Property Management CLI (OOP Demo)**](https://github.com/guymor0/property-management-cli.git)  
