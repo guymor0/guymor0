@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Guy!
 
-I'm a highly motivated B.Sc. student in Math & Statistics, focused on translating user behavior into actionable business insights. I'm proficient in applying SQL (BigQuery) and Python to analyze Gaming KPIs and conduct end-to-end analytical project. My portfolio is designed to demonstrate the full workflow, from defining business questions to communicating data-driven solutions.
+I'm a highly motivated B.Sc. in Math & Statistics, focused on translating user behavior into actionable business insights. I'm proficient in applying SQL (BigQuery) and Python to analyze Gaming KPIs and conduct end-to-end analytical project. My portfolio is designed to demonstrate the full workflow, from defining business questions to communicating data-driven solutions.
 
 ---
 
